@@ -5,3 +5,7 @@ class Myclass:
 
     def whoiam(self):
         print(f"my name is {self.name}")
+
+
+    def whoryou(self):
+        print(f'kim!')
