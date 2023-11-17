@@ -1,4 +1,4 @@
-from module import Myclass, my_code
+from Qmodule import Myclass, my_code
 
 myclass = Myclass("kim")
 myclass.whoiam()
